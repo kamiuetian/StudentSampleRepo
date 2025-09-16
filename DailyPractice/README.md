@@ -1,2 +1,4 @@
 # StudentSampleRepo
- Clone to create your own repo, Arrange folders accordingly
+
+Clone to create your own repo, Arrange folders accordingly
+i modified
